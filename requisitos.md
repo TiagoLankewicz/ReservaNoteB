@@ -2,6 +2,12 @@
 - Tiago
 - João
 
+- # Banco de Dados - PostgreSql
+- servidor: silly.db.elephantsql.com
+- user: ykkuuzpl
+- database: ykkuuzpl
+- password: 9y2xn9Q-qJWocYmtaWT43RLqLl3f-ZjU
+
 # Análise de Requisitos
 https://docs.google.com/document/d/1oAmUQkS4fiwCj51JAkyeAquGPllwZdqgOJSgXFGPqZQ/edit?pli=1#heading=h.a5pynizrue3
 
